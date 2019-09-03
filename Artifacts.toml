@@ -1,89 +1,89 @@
 [[X11]]
 arch = "aarch64"
-git-tree-sha1 = "c8aafcd324367fe73f29d231452b9a18bc33d966"
+git-tree-sha1 = "508e1beca76a3ce2e927c07f7c54141523455fe9"
 libc = "glibc"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "eeee603a4c3b677e32bcb04f5c8ef6c1801fd8cc4f2f3f79d41957dc572e54ee"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.aarch64-linux-gnu.tar.gz"
+    sha256 = "c6a74e208a2ef8f1461075e8af27e5d81c53841cf494667f2c94a7204e7a9461"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.aarch64-linux-gnu.tar.gz"
 [[X11]]
 arch = "aarch64"
-git-tree-sha1 = "b1dbf783db494a4ed26d4102f90920bf8e1ae4b2"
+git-tree-sha1 = "9afbfd6fb305833f1f528df485dd0fdd7755e492"
 libc = "musl"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "ce4b22429605a2075bcba67a9adf5908305559864d5b3ae391b7169bf3d67b60"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.aarch64-linux-musl.tar.gz"
+    sha256 = "a7d7a576034713cdf5b01c7ac4afb07edffc675db723d61ff5717a0cb76ffe5e"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.aarch64-linux-musl.tar.gz"
 [[X11]]
 arch = "x86_64"
-git-tree-sha1 = "1b0e7715a453e622c52e305e83041eb17dac6973"
+git-tree-sha1 = "1844bcd2ba6a0d1caff900d1df2faa9183bb2c95"
 libc = "glibc"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "a2713efeb50a0a0195323ec811e9b3b1673daf24d2deb1859aeb515362c4241e"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.x86_64-linux-gnu.tar.gz"
+    sha256 = "2b908ba9442b98f925bb8a891b57cd46f527782cc12929b925f9a5e92adf261b"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.x86_64-linux-gnu.tar.gz"
 [[X11]]
 arch = "i686"
-git-tree-sha1 = "8955be0c9776506e0fddf7f5dd4f8cf94400145c"
+git-tree-sha1 = "a5c472583a42c1f837af0c498d8f8268cb0b9ff5"
 libc = "glibc"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "9ce62a07af98df1746c7fa13cc3e208f02a27bf8ec257e397dfe8e23f84d6baa"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.i686-linux-gnu.tar.gz"
+    sha256 = "d040677cdddc50619f77ab6de1cf946c5171a00b7cc9ec9e9d3bfee2bee5c692"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.i686-linux-gnu.tar.gz"
 [[X11]]
 arch = "x86_64"
-git-tree-sha1 = "0d12c0560239728bde54251ce30d71cb5386a003"
+git-tree-sha1 = "396307e79d155103dd65c23d4ed09081039a2a29"
 libc = "musl"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "da57e1d3bbd35bb3de707a9a8472f40cbf27e3bff29e6761d206fcb6dd2a5575"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.x86_64-linux-musl.tar.gz"
+    sha256 = "69f9ae53b7813c1f5f257f2edd6024a0c335650f9215c12e204fbd7353ce9a3b"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.x86_64-linux-musl.tar.gz"
 [[X11]]
 arch = "powerpc64le"
-git-tree-sha1 = "36c3865044e4f3cd0eb3fd52bd1116d068395eba"
+git-tree-sha1 = "e0f4456d1d429a2d64ac56b5ccd549d4ed3617be"
 libc = "glibc"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "89457e651d3b6915f06f190e6f29e44dbf8d9b701c1d9ec86e5aa2c684c256eb"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "c99fee4b24b355bafa1d6326b8480913da0b768dcfb03865ddfd4c3d3fd1cd8f"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.powerpc64le-linux-gnu.tar.gz"
 [[X11]]
 arch = "i686"
-git-tree-sha1 = "b7e21936ef7bb8c2e0f114cad9bc299030fc91e0"
+git-tree-sha1 = "e863d9e9e468f2712e2e6f33b4cfcb4f10498a60"
 libc = "musl"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "804641e0d9642976b90c5d5b62173572341f43e7c003ae77ede1f041ecdb8027"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.i686-linux-musl.tar.gz"
+    sha256 = "291b81ff8af66e5aa6a0f1521184e2a4a1fcee94ca61d8027a0ac0f00f5da6f6"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.i686-linux-musl.tar.gz"
 [[X11]]
 arch = "x86_64"
-git-tree-sha1 = "ff7ed2d0ac003f25c1f5686b90025469284c0973"
+git-tree-sha1 = "c169647028d6aa61367cd79e50bc1ef993777112"
 os = "freebsd"
 
     [[X11.download]]
-    sha256 = "2d4b561e54fe5012f086ae30ac9b903bdf56491b946051e5e2e77e72c7e20354"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "ff8ecc126016ee0dd41d00f113c4435753d9a9adf3133da625467d34a3f379bb"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.x86_64-unknown-freebsd11.1.tar.gz"
 [[X11]]
 arch = "armv7l"
-git-tree-sha1 = "6ddfd27ab348b47bbd707aa1e06e026b481b2c1e"
+git-tree-sha1 = "2bf7972286fe9e3c727e9a10a8a8ea6c6b95f307"
 libc = "glibc"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "526eadad0459157ba5af79b1d94c72530ffa132890faacd8f96dd35229c39d58"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.arm-linux-gnueabihf.tar.gz"
+    sha256 = "46d72e8be1eece8c27a6e98a37d75d88be7b64229e2960b9d5ceb53156947d6e"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.arm-linux-gnueabihf.tar.gz"
 [[X11]]
 arch = "armv7l"
-git-tree-sha1 = "9575bb2c5e9bc99dbd05b70b5873a71276595b7a"
+git-tree-sha1 = "3a4b0e853deba0c29bae7f9f6f82322223437d73"
 libc = "musl"
 os = "linux"
 
     [[X11.download]]
-    sha256 = "dcb381691b023ee884296673c2b00318806b80529c4100ee52b61335614aabb7"
-    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+0/X11.v1.6.8.arm-linux-musleabihf.tar.gz"
+    sha256 = "c79282b15ead9c02d1cba74abc8f8edb1f9bc6337f6fc699d976055aa69b7678"
+    url = "https://github.com/JuliaBinaryWrappers/X11_jll.jl/releases/download/X11-v1.6.8+1/X11.v1.6.8.arm-linux-musleabihf.tar.gz"

@@ -2,8 +2,6 @@
 export libX11, libX11_xcb
 
 ## Global variables
-const PATH_list = String[]
-const LIBPATH_list = String[]
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "LD_LIBRARY_PATH"
@@ -44,6 +42,8 @@ function __init__()
 
     # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
+    append!.(Ref(PATH_list), (,))
+    append!.(Ref(LIBPATH_list), (,))
 
     global libX11_path = abspath(joinpath(artifact"X11", libX11_splitpath...))
 
