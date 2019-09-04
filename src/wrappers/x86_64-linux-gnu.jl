@@ -42,9 +42,6 @@ function __init__()
 
     # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
-    append!.(Ref(PATH_list), (,))
-    append!.(Ref(LIBPATH_list), (,))
-
     global libX11_path = abspath(joinpath(artifact"X11", libX11_splitpath...))
 
     # Manually `dlopen()` this right now so that future invocations
